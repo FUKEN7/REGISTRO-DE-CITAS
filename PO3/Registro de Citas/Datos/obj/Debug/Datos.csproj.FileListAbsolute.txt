@@ -1,0 +1,9 @@
+C:\Users\ortiz\OneDrive\Imágenes\Escritorio\SOMOS-Odontologia-master\Datos\bin\Debug\Datos.dll
+C:\Users\ortiz\OneDrive\Imágenes\Escritorio\SOMOS-Odontologia-master\Datos\bin\Debug\Datos.pdb
+C:\Users\ortiz\OneDrive\Imágenes\Escritorio\SOMOS-Odontologia-master\Datos\bin\Debug\Entidad.dll
+C:\Users\ortiz\OneDrive\Imágenes\Escritorio\SOMOS-Odontologia-master\Datos\bin\Debug\Entidad.pdb
+C:\Users\ortiz\OneDrive\Imágenes\Escritorio\SOMOS-Odontologia-master\Datos\obj\Debug\Datos.csproj.AssemblyReference.cache
+C:\Users\ortiz\OneDrive\Imágenes\Escritorio\SOMOS-Odontologia-master\Datos\obj\Debug\Datos.csproj.CoreCompileInputs.cache
+C:\Users\ortiz\OneDrive\Imágenes\Escritorio\SOMOS-Odontologia-master\Datos\obj\Debug\Datos.csproj.CopyComplete
+C:\Users\ortiz\OneDrive\Imágenes\Escritorio\SOMOS-Odontologia-master\Datos\obj\Debug\Datos.dll
+C:\Users\ortiz\OneDrive\Imágenes\Escritorio\SOMOS-Odontologia-master\Datos\obj\Debug\Datos.pdb
